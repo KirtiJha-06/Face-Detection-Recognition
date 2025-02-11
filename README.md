@@ -9,9 +9,6 @@ A real-time **Face Detection & Recognition** system using OpenCV and Deep Learni
 ✅ **Works with Live Webcam** or Pre-stored Images.  
 ✅ **Stores Detected Faces** for future training.  
 
-## 📸 Demo  
-*(Add a screenshot or GIF of your project running here!)*  
-<img src="demo.gif" width="500"/>  
 
 ## 🔧 Installation  
 
