@@ -14,7 +14,7 @@ A real-time **Face Detection & Recognition** system using OpenCV and Deep Learni
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/Face-Detection-Recognition.git
+git clone https://github.com/KirtiJha-06/Face-Detection-Recognition.git
 cd Face-Detection-Recognition
 2️⃣ Install dependencies
 pip install -r requirements.txt
